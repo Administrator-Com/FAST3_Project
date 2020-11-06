@@ -1,0 +1,15 @@
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\bin\Debug\FAST3_Repository.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\bin\Debug\FAST3_Repository.pdb
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\bin\Debug\FAST3_DataAccess.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\bin\Debug\Devart.Data.Oracle.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\bin\Debug\Devart.Data.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\bin\Debug\FAST3_DataAccess.pdb
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\bin\Debug\Devart.Data.Oracle.xml
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\bin\Debug\Devart.Data.xml
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\obj\Debug\FAST3_Repository.csprojAssemblyReference.cache
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\obj\Debug\FAST3_Repository.Properties.Resources.resources
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\obj\Debug\FAST3_Repository.csproj.GenerateResource.cache
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\obj\Debug\FAST3_Repository.csproj.CoreCompileInputs.cache
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\obj\Debug\FAST3_Repository.csproj.CopyComplete
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\obj\Debug\FAST3_Repository.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_Repository\obj\Debug\FAST3_Repository.pdb

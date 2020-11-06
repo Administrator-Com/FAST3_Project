@@ -1,0 +1,13 @@
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\bin\Debug\OKWms.DataAccess.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\bin\Debug\OKWms.DataAccess.pdb
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\bin\Debug\Devart.Data.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\bin\Debug\Devart.Data.Oracle.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\bin\Debug\Devart.Data.xml
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\bin\Debug\Devart.Data.Oracle.xml
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\obj\Debug\OKWms.DataAccess.Properties.Resources.resources
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\obj\Debug\OKWms.DataAccess.csproj.GenerateResource.cache
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\obj\Debug\OKWms.DataAccess.csproj.CoreCompileInputs.cache
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\obj\Debug\OKWms.DataAccess.csproj.CopyComplete
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\obj\Debug\OKWms.DataAccess.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\obj\Debug\OKWms.DataAccess.pdb
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OKWms.DataAccess\obj\Debug\OKWms.DataAccess.csprojAssemblyReference.cache

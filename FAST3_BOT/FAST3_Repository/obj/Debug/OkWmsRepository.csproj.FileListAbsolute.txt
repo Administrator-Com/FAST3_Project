@@ -1,0 +1,17 @@
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\OkWmsRepository.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\OkWmsRepository.pdb
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\OKWms.DataAccess.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\OKWmsModel.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\Devart.Data.Oracle.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\Devart.Data.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\OKWms.DataAccess.pdb
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\OKWmsModel.pdb
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\Devart.Data.Oracle.xml
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\bin\Debug\Devart.Data.xml
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\obj\Debug\OkWmsRepository.csprojAssemblyReference.cache
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\obj\Debug\OkWmsRepository.Properties.Resources.resources
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\obj\Debug\OkWmsRepository.csproj.GenerateResource.cache
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\obj\Debug\OkWmsRepository.csproj.CoreCompileInputs.cache
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\obj\Debug\OkWmsRepository.csproj.CopyComplete
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\obj\Debug\OkWmsRepository.dll
+E:\svn\QS_WMS\软件相关\QS_WMS_BS\OkWmsRepository\obj\Debug\OkWmsRepository.pdb

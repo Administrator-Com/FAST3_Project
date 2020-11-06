@@ -1,0 +1,9 @@
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\bin\Debug\FAST3_BaseLib.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\bin\Debug\FAST3_BaseLib.pdb
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\obj\Debug\FAST3_BaseLib.csprojAssemblyReference.cache
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\obj\Debug\FAST3_BaseLib.csproj.CoreCompileInputs.cache
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\obj\Debug\FAST3_BaseLib.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\obj\Debug\FAST3_BaseLib.pdb
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\bin\Debug\Newtonsoft.Json.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\bin\Debug\Newtonsoft.Json.xml
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_BaseLib\obj\Debug\FAST3_BaseLib.csproj.CopyComplete

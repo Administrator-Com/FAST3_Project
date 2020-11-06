@@ -1,0 +1,13 @@
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\bin\Debug\FAST3_DataAccess.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\bin\Debug\FAST3_DataAccess.pdb
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\bin\Debug\Devart.Data.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\bin\Debug\Devart.Data.Oracle.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\bin\Debug\Devart.Data.xml
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\bin\Debug\Devart.Data.Oracle.xml
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\obj\Debug\FAST3_DataAccess.Properties.Resources.resources
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\obj\Debug\FAST3_DataAccess.csproj.GenerateResource.cache
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\obj\Debug\FAST3_DataAccess.csproj.CoreCompileInputs.cache
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\obj\Debug\FAST3_DataAccess.csproj.CopyComplete
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\obj\Debug\FAST3_DataAccess.dll
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\obj\Debug\FAST3_DataAccess.pdb
+E:\wcs_project\FAST3_WCS\Fast3_Service\FAST3_BOT\FAST3_DataAccess\obj\Debug\FAST3_DataAccess.csprojAssemblyReference.cache
